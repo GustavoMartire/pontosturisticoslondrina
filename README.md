@@ -1,8 +1,8 @@
 # pontosturisticoslondrina
 
-Eduardo Stocchero Zancanaro /  
-Gustavo Mártire de Barros / 
-Guilherme Camilo da Silva / 
+[Eduardo Stocchero Zancanaro](https://github.com/zaaanca/pontosturisticoslondrina)
+[Gustavo Mártire de Barros](https://github.com/GustavoMartire/pontosturisticoslondrina)
+[Guilherme Camilo da Silva](https://github.com/gcamil0/pontos-turisticos-londrina)
 
 
 Pontos Turísticos Londrina
